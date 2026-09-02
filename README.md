@@ -2,6 +2,7 @@
 
 Open Solution on your IDE and just run the main project, swagger should appear.
 
+
 **Remarks**
 
 -No database technology was mentioned so to keep things simple and ease I have used EFCore-InMemoryDatabase, so no database configuration is needed :)
