@@ -12,3 +12,5 @@ Open Solution on your IDE and just run the main project, swagger should appear.
 
 -If there's any question about the implementation I will be totally available to clarify conceptional decisions, looking forward to always learn something new.
 
+-Bónus endpoint that allows for a search in all product properties at once :)
+
