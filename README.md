@@ -7,7 +7,7 @@ Open Solution on your IDE and just run the main project, swagger should appear.
 
 -No database technology was mentioned so to keep things simple and ease I have used EFCore-InMemoryDatabase, so no database configuration is needed :)
 
--MainPoject totally developed by me using the minimum dependecies, no AI, I tried to use design patterns without creating to much complexity.
+-MainProject totally developed by me using the minimum dependecies, no AI, I tried to use design patterns without creating to much complexity.
 
 -Units tests were thought by human implemented by AI, using XUnit.
 
